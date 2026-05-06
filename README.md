@@ -7,7 +7,7 @@ Repo ini adalah catatan perjalanan saya belajar pemrograman C++ dari nol selama 
 
 ## 🛠️ Daftar Program & Latihan
 
-### 1. Simulasi Mini ATM (Proyek Utama)
+### 1. Simulasi Mini ATM 
 Program paling kompleks yang mensimulasikan mesin ATM asli.
 - **Fitur Keamanan:** Validasi PIN dengan sistem 3 kali percobaan[cite: 7].
 - **Fungsionalitas:** Cek saldo, tarik tunai, setor tunai, dan transfer antar akun[cite: 7].
@@ -28,6 +28,7 @@ Program paling kompleks yang mensimulasikan mesin ATM asli.
 - [ ] Belajar Object-Oriented Programming (OOP).
 - [ ] Membuat tampilan (GUI) untuk aplikasi ATM.
 - [ ] Menambah sistem pendaftaran akun baru (Multi-User).
+- [ ] coba buat project baru (sistem kasir,minigame)
 
 ---
 *Dibuat dengan semangat belajar mandiri sebagai pelengkap materi kuliah.*
