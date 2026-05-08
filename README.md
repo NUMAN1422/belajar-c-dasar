@@ -23,6 +23,8 @@ Program paling kompleks yang mensimulasikan mesin ATM asli.
 - **Hitung Umur Otomatis:** Menggunakan library `chrono` untuk mengambil tahun saat ini langsung dari sistem komputer[cite: 4].
 - **Validasi Matematika:** Program luas lingkaran yang memastikan input jari-jari tidak boleh negatif atau nol[cite: 1].
 - **Fungsi Modular:** Latihan memecah kode menjadi fungsi-fungsi kecil agar lebih rapi dan mudah dibaca[cite: 2].
+### 4. membuat program mencari luas segitiga
+saya tambahkan program ini karena ada tugas dari mata kuliah algoritma dan pemrograman (8/5/26)
 
 ## 📈 Progres Kedepannya
 - [ ] Belajar Object-Oriented Programming (OOP).
