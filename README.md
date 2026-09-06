@@ -25,6 +25,14 @@ Program paling kompleks yang mensimulasikan mesin ATM asli.
 - **Fungsi Modular:** Latihan memecah kode menjadi fungsi-fungsi kecil agar lebih rapi dan mudah dibaca[cite: 2].
 ### 4. membuat program mencari luas segitiga
 saya tambahkan program ini karena ada tugas dari mata kuliah algoritma dan pemrograman (8/5/26)
+### 5. Perbandingan Dua Bilangan
+
+Program sederhana untuk membandingkan dua bilangan menggunakan percabangan `if-else`.
+
+- Menerima dua bilangan dari input pengguna.
+- Menentukan apakah kedua bilangan sama.
+- Menentukan bilangan mana yang lebih besar.
+- Melatih penggunaan operator perbandingan seperti `==` dan `>`. (6/9/26)
 
 ## 📈 Progres Kedepannya
 - [ ] Belajar Object-Oriented Programming (OOP).
